@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cab-nio:war">
+    <output-path>$PROJECT_DIR$/cab-nio/target</output-path>
+    <root id="archive" name="cab-nio-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cab-nio:war exploded" />
+    </root>
+  </artifact>
+</component>

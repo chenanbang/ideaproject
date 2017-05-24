@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cab-juc/cab-juc.iml" filepath="$PROJECT_DIR$/cab-juc/cab-juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cab-nio/cab-nio.iml" filepath="$PROJECT_DIR$/cab-nio/cab-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure/datastructure.iml" filepath="$PROJECT_DIR$/datastructure/datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ideaproject.iml" filepath="$PROJECT_DIR$/.idea/ideaproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-web/maven-web.iml" filepath="$PROJECT_DIR$/maven-web/maven-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondweb/secondweb.iml" filepath="$PROJECT_DIR$/secondweb/secondweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web1/web1.iml" filepath="$PROJECT_DIR$/web1/web1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web2/web2.iml" filepath="$PROJECT_DIR$/web2/web2.iml" />
+    </modules>
+  </component>
+</project>

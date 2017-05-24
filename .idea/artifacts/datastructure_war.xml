@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="datastructure:war">
+    <output-path>$PROJECT_DIR$/datastructure/target</output-path>
+    <root id="archive" name="pachira.war">
+      <element id="artifact" artifact-name="datastructure:war exploded" />
+    </root>
+  </artifact>
+</component>
